@@ -12,3 +12,9 @@ Build Recurrent Networks and Long Short-Term Memory Networks with PyTorch.Perfor
 
 Project4:Generate Faces
 Implement a Deep Convolutional GAN,generate realistic images of faces.
+
+Project5:User Churn Prediction
+In this project, we use supervised learning models to identify customers who are likely to stop using service in the future. Furthermore, we will analyze top factors that influence user retention.
+
+Project6:Document Clustering and Topic Modeling
+In this project, we use unsupervised learning models to cluster unlabeled documents into different groups, visualize the results and identify their latent topics/structures.
