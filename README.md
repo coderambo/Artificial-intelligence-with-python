@@ -1,11 +1,14 @@
 # Artificial intelligence with python
 
-This is my first repository
 
-study hard,make progress everyday
-git remote add origin https://github.com/coderambo/learning-go-lang.git
-git push -u origin master
+Project1: Predicting Bike-Sharing Patterns
+Build and train neural networks from scratch to predict the number of bike-share usres on a given day.
 
-http://www.jianshu.com/p/4c55f36c67bc
+Project2: Dog Breed Classifier
+Define a Convolutional Neural Network that performs better than the average human when given the task:identifying dog breeds.Given a image of a dog, this algorithm will produce an estimate of the dog's breed.
 
-image processing with python: http://scikit-image.org/
+Project3:Generate TV Scripts
+Build Recurrent Networks and Long Short-Term Memory Networks with PyTorch.Perform sentiment analysis and generate new text,and use recurrent networks to generate new text that resembles a training set of TV scripts.
+
+Project4:Generate Faces
+Implement a Deep Convolutional GAN,generate realistic images of faces.
